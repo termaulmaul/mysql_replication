@@ -1,2 +1,3 @@
 # Mengabaikan direktori data dan semua isinya
 data/
+.DS_Store
